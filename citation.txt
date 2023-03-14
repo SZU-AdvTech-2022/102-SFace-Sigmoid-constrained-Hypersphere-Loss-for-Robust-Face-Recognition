@@ -1,4 +1,4 @@
-@article{REPO-103,
+@article{REPO-102,
     author = "Zhong, Yaoyao and Deng, Weihong and Hu, Jiani and Zhao, Dongyue and Li, Xian and Wen, Dongchao",
     journal = "IEEE Transactions on Image Processing",
     pages = "2587--2598",
