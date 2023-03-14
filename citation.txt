@@ -1,0 +1,8 @@
+@article{REPO-103,
+    author = "Zhong, Yaoyao and Deng, Weihong and Hu, Jiani and Zhao, Dongyue and Li, Xian and Wen, Dongchao",
+    journal = "IEEE Transactions on Image Processing",
+    pages = "2587--2598",
+    title = "{SFace: Sigmoid-constrained Hypersphere Loss for Robust Face Recognition}",
+    volume = "30",
+    year = "2021"
+}
